@@ -2,8 +2,8 @@
 [![Build Status](https://travis-ci.org/clemahieu/raiblocks.svg?branch=master)](https://travis-ci.org/clemahieu/raiblocks)
 ![Logo of RaiBlocks](https://github.com/clemahieu/raiblocks/blob/master/logo.png)
 
-# What is RaiBlocks?
-RaiBlocks is designed to be a feeless, instant, high throughput cryptocurrency.
+# What is RaiBlocks Classic?
+RaiBlocks Classic is a fork of Nano designed to preserve Colin's original vision of the future. It is a feeless, instant, high throughput cryptocurrency.
 
 We've applied the philosophy of "do one thing and do it well", giving you performance and scalability unmatched by any other platform.
 
